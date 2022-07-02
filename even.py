@@ -1,3 +1,4 @@
+print("Enter n value :")
 n=int(input())
 list=[]
 for i in range(0,n):
